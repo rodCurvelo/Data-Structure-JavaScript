@@ -11,6 +11,7 @@
 7. [Trie](#trie)
 8. [Heap (max and min)](#heap-(max-and-min))
 9. [Graphs breadth-first search](#graphs-breadth-first-search)
+---
 
 #### Stacks
 ```javaScript
